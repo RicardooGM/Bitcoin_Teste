@@ -356,3 +356,9 @@ st.table(pd.DataFrame({
     'indicator': ['price_now','sma_short_now','sma_long_now','macd_now','macd_signal_now','rsi_now','atr_now'],
     'value': [price_now,sma_short_now,sma_long_now,macd_now,macd_signal_now,rsi_now,atr_now]
 }))
+
+
+#organizar gráficos, coloca-los em ploty_chart e com fundo branco
+#plotar gráficos dos stops
+#colocar uma breve descrição, do que cada um é
+# organizar a tabela dos scores 
